@@ -53,7 +53,7 @@ transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 
  <BODY>
   <p class="neon">
-  Vũ Anh
+  Text
   </p>
   <canvas id="pinkboard"></canvas>
   <script>
